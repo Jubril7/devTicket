@@ -1,6 +1,5 @@
 package com.dev_ticket.Repository;
 
-import com.dev_ticket.DTO.TodoDTO;
 import com.dev_ticket.Model.Todo;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
